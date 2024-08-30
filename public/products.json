@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name" : "product 1",
+        "price": 10.99,
+        "description": "this is the first product"
+    },
+    {
+        "id": 2,
+        "name" : "product 2",
+        "price": 89.99,
+        "description": "this is the second product"
+    },
+    {
+        "id": 3,
+        "name" : "product 3",
+        "price": 5.99,
+        "description": "this is the three product"
+    },
+    {
+        "id": 4,
+        "name" : "product 4",
+        "price": 34.99,
+        "description": "this is the fourth product"
+    },
+    {
+        "id": 5,
+        "name" : "product 5",
+        "price": 67.99,
+        "description": "this is the fifth product"
+    },
+    {
+        "id": 6,
+        "name" : "product 6",
+        "price": 1.99,
+        "description": "this is the sixth product"
+    }
+]
